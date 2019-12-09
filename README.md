@@ -38,14 +38,14 @@ How to use my program:
     Press 2 for Best Fit
     Press 3 for Worst Fit
 
--If you choose FCFS: -Press Y or N if you would like randomized burst times
+-If you choose FF: you will be asked to input process ID's, process sizes, block sizes.
+memory block will appear
 
-    If N, you will be asked to manually input them
+You will be able to remove a block, display the waiting queue, or return to main menu.
 
--If you are in SJF: -Press Y or N if you would like randomized burst times
-
-    If N, you will be asked to manually input them
-
--If you are in RR: -Press Y or N if you would like to consider arrival times -if N, all arrival times will be initialized to 0. If Y, you will be asked to input them manually -Enter a time quantum
-
+-If you are in BF: 
+    
+        Memory block will display
+-If you are in WF -
+    Algorithm will display
 -Press 9 to exit the program after desired execution
