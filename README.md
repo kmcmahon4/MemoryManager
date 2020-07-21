@@ -1,5 +1,5 @@
 # MemoryManager
-Memory Management Simulation Written in C.
+Memory Management Simulation Written in C. The project was to be written in the language of our choosing, and I figured I would challenge myself!
 
 
 Memory Manager Program - Readme File @author: Kerri McMahon
